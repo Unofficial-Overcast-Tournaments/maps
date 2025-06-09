@@ -4,6 +4,8 @@ Duels:
 
 5v5:
   - "Abstract"
+  - "Barricade"
+  - "Bastion"
   - "Coconut"
   - "Coconut Mald"
   - "Frontier TE"
@@ -16,6 +18,7 @@ Duels:
   - "Swamplands TE"
   - "Thicket"
   - "Verveine: TE"
+  - "Villa"
   - "Wallop"
   - "Wrap"
   - "Yermo"
