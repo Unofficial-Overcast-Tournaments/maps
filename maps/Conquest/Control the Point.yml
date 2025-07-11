@@ -1,6 +1,4 @@
 Duels:
-  - "Bolt"
-  - "Static"
   - "The Huts II"
 
 5v5:
@@ -11,9 +9,7 @@ Duels:
   - "Eden"
   - "LeBronze"
   - "Marzipan: 5v5"
-  - "Moonshine"
   - "Siege: Classic"
-  - "Snowbound"
 
 7v7:
   - "Ascendance"
